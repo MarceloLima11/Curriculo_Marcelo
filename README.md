@@ -18,7 +18,10 @@ Atuar na área de desenvolvimento
  - Espanhol - Nivel Básico
 
 ## Atividades Complementares
- - Curso Web Design Completo: HTML5, CSS3 e JS –  Plataforma Udemy                                            - C# Completa Orientado a objetos–  Plataforma Udemy       - Curso SQL Completo DevAprender –  Youtube                - SQL e NoSQL do básico ao avançado –  Plataforma Udemy
+ - Curso Web Design Completo: HTML5, CSS3 e JS –  Plataforma Udemy
+ - C# Completa Orientado a objetos–  Plataforma Udemy       
+ - Curso SQL Completo DevAprender –  Youtube                
+ - SQL e NoSQL do básico ao avançado –  Plataforma Udemy
  - Lógica de Programação –  CursoEmVídeo
  - Formação SQL com PostgreSQL – Plataforma Alura
  - Curso Web API ASP .NET Core Essencial (.NET 6) –  Plataforma Udemy
