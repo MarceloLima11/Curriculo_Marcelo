@@ -8,6 +8,7 @@
 Atuar na área de desenvolvimento
 
 ## Experiência Profissional
- - Estágiario - Modalgr out 2021 - mai 2022.
+ - Estágiario - Modalgr out 2021 - mai 2022
+ 
 Atividades: Analisar, codificar, levantar registros e testes em sistemas e Softwares e aplicativos voltados para internet.
 
