@@ -1,29 +1,29 @@
 # Marcelo Lima da Silva
 
+ - Brasileiro, Solteiro, 19 anos
  - Parque das Bandeiras, São Vicente  
  - (13) 99737-2895  
  - marcelolima152021@gmail.com
 
-## Objetivo Profissional
-Atuar na área de desenvolvimento
-
-## Experiência Profissional
- - Estágiario - Modalgr out 2021 - mai 2022
-
 ## Formação Acadêmica
  - Universidade Estácio de Sá - 100%EAD - Estudande de Análise e Desenvolvimento de Sistemas
 
-## Idioma
- - Inglês - Wizard - Nivevl Básico jan 2020 - mai 2020
- - Espanhol - Nivel Básico
+## Experiência Profissional
+ - Estágiario - Modalgr out 2021 - mai 2022
+ -  - Desenvolvedor Back-end atuando com as linguagens ASP.NET, C# e banco de dados SQL Server e PostgreSQL;
+    - Desenvolvimento de APIs em .NET Core, C#;
+    - Experiencia em Azure DevOps;
+    - Manutenção de Sistemas;
 
-## Atividades Complementares
- - Curso Web Design Completo: HTML5, CSS3 e JS –  Plataforma Udemy
- - C# Completa Orientado a objetos–  Plataforma Udemy       
- - Curso SQL Completo DevAprender –  Youtube                
- - SQL e NoSQL do básico ao avançado –  Plataforma Udemy
- - Lógica de Programação –  CursoEmVídeo
- - Formação SQL com PostgreSQL – Plataforma Alura
- - Curso Web API ASP .NET Core Essencial (.NET 6) –  Plataforma Udemy
+ 
+## Conhecimentos
+ - ASP.NET, .NET Core, C#, SQL Server, MYSQL, PostgreSQL.
+ - Azure, DDD, TDD, MVC, Git e SubVersion.
+ - DevOps, SCRUM e Metodologias ágeis.
+ - Inglês (Básico) e Espanhol (Básico).
+
+
+## Objetivo Profissional
+Atuar na área de desenvolvimento, colaborar em um ambiente de trabalho onde possa colocar em pratica meus conhecimentos a favor da instituição, focando tanto no crescimento da instituição quanto no profissional.
 
 
