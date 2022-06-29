@@ -1,2 +1,2 @@
-# Curr-culo_Marcelo
+# Currículo_Marcelo
 Desafio de projeto DIO.
